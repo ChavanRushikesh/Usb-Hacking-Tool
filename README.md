@@ -4,8 +4,6 @@ This is Python language based hacking tool that can be used to stole specific ty
  
  
  <h4>Owner: </h4>
- 
- 
  _____                     _        _   _                     _      
 |  __ \                   | |      |_| | |   _               | |     
 | |__) |                  | |          | | / /               | |     
